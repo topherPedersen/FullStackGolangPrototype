@@ -1,5 +1,5 @@
 # FullStackGolangPrototype
-Prototype of a "Trending Soundcloud Tracks" I built to teach myself Golang (3 day project)
+Prototype of a "Trending Soundcloud Tracks" app that I built to teach myself Golang (3 day project)
 
 Front End: ReactJS WebApp
 
